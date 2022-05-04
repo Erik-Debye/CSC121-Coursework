@@ -1,0 +1,1221 @@
+
+
+	Player chose 1!
+
+	Current State of Squares: X 2 3
+				        4 5 6
+				        7 8 9
+
+	Computer chose 9!
+
+	Current State of Squares: X 2 3
+				        4 5 6
+				        7 8 O
+
+	Player chose 4!
+
+	Current State of Squares: X 2 3
+				        X 5 6
+				        7 8 O
+
+	Computer chose 5!
+
+	Current State of Squares: X 2 3
+				        X O 6
+				        7 8 O
+
+	Player chose 7!
+
+	Current State of Squares: X 2 3
+				        X O 6
+				        X 8 O
+
+	Player won on the first column of squares!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 2!
+
+	Current State of Squares: X O 3
+				        X O 6
+				        X 8 O
+
+	Computer chose 3!
+
+	Current State of Squares: X O O
+				        X O 6
+				        X 8 O
+
+	Computer chose 6!
+
+	Current State of Squares: X O O
+				        X O O
+				        X 8 O
+
+	Computer won on the third column of squares!
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 1!
+
+	Current State of Squares: X 2 3
+				        4 5 6
+				        7 8 9
+
+	Computer chose 3!
+
+	Current State of Squares: X 2 O
+				        4 5 6
+				        7 8 9
+
+	Player chose 5!
+
+	Current State of Squares: X 2 O
+				        4 X 6
+				        7 8 9
+
+	Computer chose 2!
+
+	Current State of Squares: X O O
+				        4 X 6
+				        7 8 9
+
+	Player chose 9!
+
+	Current State of Squares: X O O
+				        4 X 6
+				        7 8 X
+
+	Player won on the decreasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 6!
+
+	Current State of Squares: X O O
+				        4 X O
+				        7 8 X
+
+	Computer chose 7!
+
+	Current State of Squares: X O O
+				        4 X O
+				        O 8 X
+
+	Computer chose 4!
+
+	Current State of Squares: X O O
+				        O X O
+				        O 8 X
+
+	Computer chose 8!
+
+	Current State of Squares: X O O
+				        O X O
+				        O O X
+
+	Player is the only winner!
+
+
+
+
+	Player chose 1!
+
+	Current State of Squares: X 2 3
+				        4 5 6
+				        7 8 9
+
+	Computer chose 3!
+
+	Current State of Squares: X 2 O
+				        4 5 6
+				        7 8 9
+
+	Player chose 4!
+
+	Current State of Squares: X 2 O
+				        X 5 6
+				        7 8 9
+
+	Computer chose 6!
+
+	Current State of Squares: X 2 O
+				        X 5 O
+				        7 8 9
+
+	Player chose 7!
+
+	Current State of Squares: X 2 O
+				        X 5 O
+				        X 8 9
+
+	Player won on the first column of squares!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 8!
+
+	Current State of Squares: X 2 O
+				        X 5 O
+				        X O 9
+
+	Computer chose 2!
+
+	Current State of Squares: X O O
+				        X 5 O
+				        X O 9
+
+	Computer chose 5!
+
+	Current State of Squares: X O O
+				        X O O
+				        X O 9
+
+	Computer won on the second column of squares!
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+
+	Computer chose 6!
+
+	Current State of Squares: 1 2 3
+				        4 X O
+				        7 8 9
+
+	Player chose 9!
+
+	Current State of Squares: 1 2 3
+				        4 X O
+				        7 8 X
+
+	Computer chose 1!
+
+	Current State of Squares: O 2 3
+				        4 X O
+				        7 8 X
+
+	Player chose 8!
+
+	Current State of Squares: O 2 3
+				        4 X O
+				        7 X X
+
+	Computer chose 7!
+
+	Current State of Squares: O 2 3
+				        4 X O
+				        O X X
+
+	Player chose 2!
+
+	Current State of Squares: O X 3
+				        4 X O
+				        O X X
+
+	Player won on the second column of squares!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 3!
+
+	Current State of Squares: O X O
+				        4 X O
+				        O X X
+
+	Computer chose 4!
+
+	Current State of Squares: O X O
+				        O X O
+				        O X X
+
+	Computer won on the first column of squares!
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 7!
+
+	Current State of Squares: 1 2 3
+				        4 5 6
+				        X 8 9
+
+	Computer chose 4!
+
+	Current State of Squares: 1 2 3
+				        O 5 6
+				        X 8 9
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        O X 6
+				        X 8 9
+
+	Computer chose 2!
+
+	Current State of Squares: 1 O 3
+				        O X 6
+				        X 8 9
+
+	Player chose 3!
+
+	Current State of Squares: 1 O X
+				        O X 6
+				        X 8 9
+
+	Player won on the increasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 1!
+
+	Current State of Squares: O O X
+				        O X 6
+				        X 8 9
+
+	Computer chose 9!
+
+	Current State of Squares: O O X
+				        O X 6
+				        X 8 O
+
+	Computer chose 6!
+
+	Current State of Squares: O O X
+				        O X O
+				        X 8 O
+
+	Computer chose 8!
+
+	Current State of Squares: O O X
+				        O X O
+				        X O O
+
+	Player is the only winner!
+
+
+
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+
+	Computer chose 6!
+
+	Current State of Squares: 1 2 3
+				        4 X O
+				        7 8 9
+
+	Player chose 3!
+
+	Current State of Squares: 1 2 X
+				        4 X O
+				        7 8 9
+
+	Computer chose 1!
+
+	Current State of Squares: O 2 X
+				        4 X O
+				        7 8 9
+
+	Player chose 7!
+
+	Current State of Squares: O 2 X
+				        4 X O
+				        X 8 9
+
+	Player won on the increasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 9!
+
+	Current State of Squares: O 2 X
+				        4 X O
+				        X 8 O
+
+	Computer chose 8!
+
+	Current State of Squares: O 2 X
+				        4 X O
+				        X O O
+
+	Computer chose 2!
+
+	Current State of Squares: O O X
+				        4 X O
+				        X O O
+
+	Computer chose 4!
+
+	Current State of Squares: O O X
+				        O X O
+				        X O O
+
+	Player is the only winner!
+
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+
+	Computer chose 7!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        O 8 9
+
+	Player chose 1!
+
+	Current State of Squares: X 2 3
+				        4 X 6
+				        O 8 9
+
+	Computer chose 6!
+
+	Current State of Squares: X 2 3
+				        4 X O
+				        O 8 9
+
+	Player chose 9!
+
+	Current State of Squares: X 2 3
+				        4 X O
+				        O 8 X
+
+	Player won on the decreasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 4!
+
+	Current State of Squares: X 2 3
+				        O X O
+				        O 8 X
+
+	Computer chose 3!
+
+	Current State of Squares: X 2 O
+				        O X O
+				        O 8 X
+
+	Computer chose 2!
+
+	Current State of Squares: X O O
+				        O X O
+				        O 8 X
+
+	Computer chose 8!
+
+	Current State of Squares: X O O
+				        O X O
+				        O O X
+
+	Player is the only winner!
+
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+
+	Computer chose 4!
+
+	Current State of Squares: 1 2 3
+				        O X 6
+				        7 8 9
+
+	Player chose 1!
+
+	Current State of Squares: X 2 3
+				        O X 6
+				        7 8 9
+
+	Computer chose 6!
+
+	Current State of Squares: X 2 3
+				        O X O
+				        7 8 9
+
+	Player chose 9!
+
+	Current State of Squares: X 2 3
+				        O X O
+				        7 8 X
+
+	Player won on the decreasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 3!
+
+	Current State of Squares: X 2 O
+				        O X O
+				        7 8 X
+
+	Computer chose 2!
+
+	Current State of Squares: X O O
+				        O X O
+				        7 8 X
+
+	Computer chose 7!
+
+	Current State of Squares: X O O
+				        O X O
+				        O 8 X
+
+	Computer chose 8!
+
+	Current State of Squares: X O O
+				        O X O
+				        O O X
+
+	Player is the only winner!
+
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+
+	Computer chose 2!
+
+	Current State of Squares: 1 O 3
+				        4 X 6
+				        7 8 9
+
+	Player chose 3!
+
+	Current State of Squares: 1 O X
+				        4 X 6
+				        7 8 9
+
+	Computer chose 8!
+
+	Current State of Squares: 1 O X
+				        4 X 6
+				        7 O 9
+
+	Player chose 7!
+
+	Current State of Squares: 1 O X
+				        4 X 6
+				        X O 9
+
+	Player won on the increasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 9!
+
+	Current State of Squares: 1 O X
+				        4 X 6
+				        X O O
+
+	Computer chose 6!
+
+	Current State of Squares: 1 O X
+				        4 X O
+				        X O O
+
+	Computer chose 1!
+
+	Current State of Squares: O O X
+				        4 X O
+				        X O O
+
+	Computer chose 4!
+
+	Current State of Squares: O O X
+				        O X O
+				        X O O
+
+	Player is the only winner!
+
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+
+	Computer chose 1!
+
+	Current State of Squares: O 2 3
+				        4 X 6
+				        7 8 9
+
+	Player chose 7!
+
+	Current State of Squares: O 2 3
+				        4 X 6
+				        X 8 9
+
+	Computer chose 8!
+
+	Current State of Squares: O 2 3
+				        4 X 6
+				        X O 9
+
+	Player chose 3!
+
+	Current State of Squares: O 2 X
+				        4 X 6
+				        X O 9
+
+	Player won on the increasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 4!
+
+	Current State of Squares: O 2 X
+				        O X 6
+				        X O 9
+
+	Computer chose 9!
+
+	Current State of Squares: O 2 X
+				        O X 6
+				        X O O
+
+	Computer chose 2!
+
+	Current State of Squares: O O X
+				        O X 6
+				        X O O
+
+	Computer chose 6!
+
+	Current State of Squares: O O X
+				        O X O
+				        X O O
+
+	Player is the only winner!
+
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+
+	Computer chose 6!
+
+	Current State of Squares: 1 2 3
+				        4 X O
+				        7 8 9
+
+	Player chose 3!
+
+	Current State of Squares: 1 2 X
+				        4 X O
+				        7 8 9
+
+	Computer chose 9!
+
+	Current State of Squares: 1 2 X
+				        4 X O
+				        7 8 O
+
+	Player chose 7!
+
+	Current State of Squares: 1 2 X
+				        4 X O
+				        X 8 O
+
+	Player won on the increasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 8!
+
+	Current State of Squares: 1 2 X
+				        4 X O
+				        X O O
+
+	Computer chose 1!
+
+	Current State of Squares: O 2 X
+				        4 X O
+				        X O O
+
+	Computer chose 4!
+
+	Current State of Squares: O 2 X
+				        O X O
+				        X O O
+
+	Computer chose 2!
+
+	Current State of Squares: O O X
+				        O X O
+				        X O O
+
+	Player is the only winner!
+
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 5!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+
+	Computer chose 8!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 O 9
+
+	Player chose 9!
+
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 O X
+
+	Computer chose 6!
+
+	Current State of Squares: 1 2 3
+				        4 X O
+				        7 O X
+
+	Player chose 1!
+
+	Current State of Squares: X 2 3
+				        4 X O
+				        7 O X
+
+	Player won on the decreasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 7!
+
+	Current State of Squares: X 2 3
+				        4 X O
+				        O O X
+
+	Computer chose 3!
+
+	Current State of Squares: X 2 O
+				        4 X O
+				        O O X
+
+	Computer chose 2!
+
+	Current State of Squares: X O O
+				        4 X O
+				        O O X
+
+	Computer chose 4!
+
+	Current State of Squares: X O O
+				        O X O
+				        O O X
+
+	Player is the only winner!
+
+
+
+
+	Player chose 3!
+
+	Current State of Squares: 1 2 X
+				        4 5 6
+				        7 8 9
+
+	Computer chose 7!
+
+	Current State of Squares: 1 2 X
+				        4 5 6
+				        O 8 9
+
+	Player chose 6!
+
+	Current State of Squares: 1 2 X
+				        4 5 X
+				        O 8 9
+
+	Computer chose 1!
+
+	Current State of Squares: O 2 X
+				        4 5 X
+				        O 8 9
+
+	Player chose 9!
+
+	Current State of Squares: O 2 X
+				        4 5 X
+				        O 8 X
+
+	Player won on the third column of squares!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 4!
+
+	Current State of Squares: O 2 X
+				        O 5 X
+				        O 8 X
+
+	Computer won on the first column of squares!
+
+
+
+	Player chose 3!
+
+	Current State of Squares: 1 2 X
+				        4 5 6
+				        7 8 9
+
+	Computer chose 1!
+
+	Current State of Squares: O 2 X
+				        4 5 6
+				        7 8 9
+
+	Player chose 6!
+
+	Current State of Squares: O 2 X
+				        4 5 X
+				        7 8 9
+
+	Computer chose 7!
+
+	Current State of Squares: O 2 X
+				        4 5 X
+				        O 8 9
+
+	Player chose 9!
+
+	Current State of Squares: O 2 X
+				        4 5 X
+				        O 8 X
+
+	Player won first place on the third column of squares!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 2!
+
+	Current State of Squares: O O X
+				        4 5 X
+				        O 8 X
+
+	Computer chose 5!
+
+	Current State of Squares: O O X
+				        4 O X
+				        O 8 X
+
+	Computer chose 8!
+
+	Current State of Squares: O O X
+				        4 O X
+				        O O X
+
+	Computer won second place on the second column of squares!
+
+
+
+	Player chose 2!
+
+	Current State of Squares: 1 X 3
+				        4 5 6
+				        7 8 9
+
+	Computer chose 4!
+
+	Current State of Squares: 1 X 3
+				        O 5 6
+				        7 8 9
+
+	Player chose 5!
+
+	Current State of Squares: 1 X 3
+				        O X 6
+				        7 8 9
+
+	Computer chose 8!
+
+	Current State of Squares: 1 X 3
+				        O X 6
+				        7 O 9
+
+	Player chose 7!
+
+	Current State of Squares: 1 X 3
+				        O X 6
+				        X O 9
+
+	Computer chose 1!
+
+	Current State of Squares: O X 3
+				        O X 6
+				        X O 9
+
+	Player chose 3!
+
+	Current State of Squares: O X X
+				        O X 6
+				        X O 9
+
+	Player won first place on the increasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 6!
+
+	Current State of Squares: O X X
+				        O X O
+				        X O 9
+
+	Computer chose 9!
+
+	Current State of Squares: O X X
+				        O X O
+				        X O O
+
+	Player is the only winner!
+
+
+
+
+	Player chose 1!
+
+	Current State of Squares: X 2 3
+				        4 5 6
+				        7 8 9
+
+	Computer chose 7!
+
+	Current State of Squares: X 2 3
+				        4 5 6
+				        O 8 9
+
+	Player chose 5!
+
+	Current State of Squares: X 2 3
+				        4 X 6
+				        O 8 9
+
+	Computer chose 3!
+
+	Current State of Squares: X 2 O
+				        4 X 6
+				        O 8 9
+
+	Player chose 9!
+
+	Current State of Squares: X 2 O
+				        4 X 6
+				        O 8 X
+
+	Player won first place on the decreasing diagonal!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 6!
+
+	Current State of Squares: X 2 O
+				        4 X O
+				        O 8 X
+
+	Computer chose 2!
+
+	Current State of Squares: X O O
+				        4 X O
+				        O 8 X
+
+	Computer chose 4!
+
+	Current State of Squares: X O O
+				        O X O
+				        O 8 X
+
+	Computer chose 8!
+
+	Current State of Squares: X O O
+				        O X O
+				        O O X
+
+	Player is the only winner!
+
+
+
+
+
+
+	Player chose to play a new game.
+
+
+--------------------------------------------
+
+
+
+	Player chose 1!
+
+	Current State of Squares: X 2 3
+				        4 5 6
+				        7 8 9
+
+	Computer chose 3!
+
+	Current State of Squares: X 2 O
+				        4 5 6
+				        7 8 9
+
+	Player chose 2!
+
+	Current State of Squares: X X O
+				        4 5 6
+				        7 8 9
+
+	Computer chose 4!
+
+	Current State of Squares: X X O
+				        O 5 6
+				        7 8 9
+
+	Player chose 5!
+
+	Current State of Squares: X X O
+				        O X 6
+				        7 8 9
+
+	Computer chose 7!
+
+	Current State of Squares: X X O
+				        O X 6
+				        O 8 9
+
+	Player chose 8!
+
+	Current State of Squares: X X O
+				        O X 6
+				        O X 9
+
+	Player won first place on the second column of squares!
+
+
+
+
+	Computer trying for second place...
+
+
+
+
+	Computer chose 6!
+
+	Current State of Squares: X X O
+				        O X O
+				        O X 9
+
+	Computer chose 9!
+
+	Current State of Squares: X X O
+				        O X O
+				        O X O
+
+	Computer won second place on the third column of squares!
+
